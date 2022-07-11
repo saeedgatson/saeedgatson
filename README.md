@@ -1,16 +1,35 @@
-### Hi there 👋
+### hello, i'm Saeed Gatson! 👋🏾
 
-<!--
-**saeedgatson/saeedgatson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## software engineer 👨🏾‍💻
 
-Here are some ideas to get you started:
+🏗️ currently building [Gatson Games][gatsongames].  
+🧠 learning about in-game economies.  
+👯 wanting to collaborate on open source projects.  
+👀 looking for opportunities to work in gaming and/or web3.  
+💬 ask me about my [NFT collection][opensea].  
+📫 how to reach me: [saeedgatson@gmail.com][email].  
+🕵🏾‍♂️ pronouns: he/him  
+🎉 fun fact: i'm my basketball coach's only Computer Science, B.S. graduate.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**|** 🏡 [website][website] **|** 🐦 [twitter][twitter] **|** ⏱️ [tiktok][tiktok] **|** 📷 [instagram][instagram] **|** 📦 [npm][npm]  **|** 👔 [linkedin][linkedin] **|**
+<!---
+📺 [youtube][youtube] **|** 🎥 [twitch][twitch] **|** 📰 [newsletter][newsletter] **|**
 -->
+
+💚 love using HTML/CSS and JavaScript on the frontend. and C#, Node.js, or Java server side.
+
+<br />
+<br />
+
+[email]: mailto:saeedgatson@gmail.com
+[gatsongames]: https://gatsongames.com
+[instagram]: https://instagram.com/saeedgatson
+[linkedin]: https://linkedin.com/in/saeedgatson
+[newsletter]: https://medium.com/thesector
+[npm]: https://npmjs.com/~saeedgatson
+[opensea]: https://opensea.io/saeedgatson
+[tiktok]: https://www.tiktok.com/@saeedgatson
+[twitch]: https://twitch.tv/saeedgatson
+[twitter]: https://twitter.com/saeedgatson
+[website]: https://saeedgatson.com
+[youtube]: https://youtube.com/saeedgatson
