@@ -14,12 +14,12 @@ while helping companies test frontend user interfaces and backend service APIs.
 🕵🏾‍♂️ pronouns: he/him  
 🎉 fun fact: i'm my basketball coach's only Computer Science, B.S. graduate.  
 
-**|** 🏡 [website][website] **|** 🐦 [twitter][twitter] **|** ⏱️ [tiktok][tiktok] **|** 📷 [instagram][instagram] **|** 📦 [npm][npm]  **|** 👔 [linkedin][linkedin] **|**
+**|** 🏡 [website][website] **|** 📦 [npm][npm]  **|** 👔 [linkedin][linkedin] **|**
 <!---
-📺 [youtube][youtube] **|** 🎥 [twitch][twitch] **|** 📰 [newsletter][newsletter] **|**
+ **|** 🐦 [twitter][twitter] **|** ⏱️ [tiktok][tiktok] **|** 📷 [instagram][instagram] 📺 [youtube][youtube] **|** 🎥 [twitch][twitch] **|** 📰 [newsletter][newsletter] **|**
 -->
 
-💚 love using HTML/CSS and JavaScript on the frontend. and C#, Node.js, or Java server side.
+💚 love experimenting & creating. I’m a life long learner 👨🏾‍🏫 who has a thing for anime ⛩️ and cookie dough ice cream 🍨
 
 <br />
 <br />
