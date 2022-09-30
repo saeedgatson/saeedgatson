@@ -1,11 +1,14 @@
 ### hello, i'm Saeed Gatson! 👋🏾
 
-## software engineer 👨🏾‍💻
+## software engineer in test 👨🏾‍💻
+software engineer with over ten years of experience building testing frameworks.
+i've developed automated testing pipelines used by cross-disciplinary teams.
+while helping companies test frontend user interfaces and backend service APIs.
 
 🏗️ currently building [Gatson Games][gatsongames].  
 🧠 learning about in-game economies.  
 👯 wanting to collaborate on open source projects.  
-👀 looking for opportunities to work in gaming and/or web3.  
+👀 looking for opportunities to work in gaming and/or web3 (blockchain, crypto, defi) .  
 💬 ask me about my [NFT collection][opensea].  
 📫 how to reach me: [saeedgatson@gmail.com][email].  
 🕵🏾‍♂️ pronouns: he/him  
