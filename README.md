@@ -1,16 +1,15 @@
 ### hello, i'm Saeed Gatson! 👋🏾
 
 ## software development engineer in test (sdet) 👨🏾‍💻
-software engineer with over ten years of experience building testing frameworks.
-i've developed automated testing pipelines used by cross-disciplinary teams.
-while helping companies test frontend user interfaces and backend service APIs.
+software engineer with over ten years of experience building testing frameworks. <br>
+i've developed automated testing pipelines frontend user interfaces and backend service APIs. 
 
-👀 looking for opportunities to work in gaming.
-👯 wanting to collaborate on open source projects.  
-🎥 watching fire force.
-🧠 learning TypeScript & GDScript.
-📫 how to reach me: [saeedgatson[at]gmail[dot]com][email].
-🎉 fun fact: i'm my basketball coach's only Computer Science, B.S. graduate.  
+👀 looking for opportunities to work in gaming. <br>
+👯 wanting to collaborate on open source projects. <br>
+🎥 watching fire force. <br>
+🧠 learning TypeScript & GDScript. <br>
+📫 how to reach me: [saeedgatson[at]gmail[dot]com][email]. <br>
+🎉 fun fact: i'm my basketball coach's only Computer Science, B.S. graduate. <br>
 
 **|** 🏡 [website][website] **|** 👔 [linkedin][linkedin] **|** 🐦 [twitter][twitter] **|**
 <!---
